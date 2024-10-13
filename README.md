@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafitalavi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python ,CSS,Bootstrap,tailwind & django
+- 🌱 I’m currently learning python ,javascript,react,CSS,Bootstrap,tailwind & django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
