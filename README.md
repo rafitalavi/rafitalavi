@@ -7,7 +7,8 @@ I love building scalable web applications, solving real-world problems through c
 
 ## 👀 About Me
 - 🌱 Currently learning **Python, JavaScript, React, Tailwind, Django**
-- 💼 Jr. SQA Engineer @ **Bangla Puzzle Limited**
+- 💼 Jr. Backend Engineer @ **Betopia Group**
+- 💼 Former Jr. SQA Engineer @ **Bangla Puzzle Limited**
 - 🧠 Solved **180+ coding challenges** on LeetCode, Beecrowd, and Code360
 - 🚀 Experienced in **API design**, **full-stack development**, and **localization tools**  
 - 🧰 Tech Stack: `Python (Django, DRF, Flask)` • `JavaScript (React)` • `SQL` • `Docker` • `Linux` • `Git`
